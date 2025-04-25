@@ -33,11 +33,11 @@ The preliminary training stages (MNTP, SimCSE) used to enhance the base LLM's em
 
 > BehnamGhader, P., Adlakha, V., Mosbach, M. et al. LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders. *arXiv preprint arXiv:2404.05961* (2024).
 
-Users who have obtained necessary permissions for the base Llama model can utilize the resulting LLM4MS model (either provided here or reproducible via scripts) for spectral matching tasks and further research.
+Users who have obtained necessary permissions for the base Llama model can utilize the resulting LLM4MS model for spectral matching tasks and further research.
 
 ## 4. Software Tool
 
-We provide a user-friendly standalone software tool with a Graphical User Interface (GUI) for easy application of LLM4MS. This tool allows users to load query spectra and perform rapid matching against the pre-computed embeddings of the in-silico library, even without extensive computational expertise.
+We provide a user-friendly standalone software tool with a Graphical User Interface (GUI) for easy application of LLM4MS.
 
 The software can be downloaded from:
 **[Link to your software download - replace xxx]**
