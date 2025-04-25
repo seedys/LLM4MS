@@ -40,5 +40,5 @@ Users who have obtained necessary permissions for the base Llama model can utili
 We provide a user-friendly standalone software tool with a Graphical User Interface (GUI) for easy application of LLM4MS.
 
 The software can be downloaded from:
-**[Link to your software download - replace xxx]**
+**(https://box.nju.edu.cn/d/fc64e450d0cc43c0af5b/)**
 
