@@ -1,0 +1,6 @@
+{
+    "pooling_mode": "mean",
+    "max_length": 512,
+    "doc_max_length": 400,
+    "skip_instruction": true
+}
