@@ -2,11 +2,7 @@
 
 ## 1. Introduction
 
-LLM4MS is a novel approach for improving compound identification in electron ionization mass spectrometry (EI-MS). It leverages the latent chemical knowledge embedded within large language models (LLMs) to generate discriminative spectral embeddings. By textualizing mass spectra and fine-tuning a base LLM, LLM4MS achieves superior performance in matching query spectra against large-scale libraries compared to traditional methods and other embedding techniques like Spec2Vec.
-
-This repository contains code and resources related to the LLM4MS method presented in our paper:
-
-*[Your Paper Citation Here - e.g., Author et al., Journal/Conference, Year]*
+LLMs for improving compound identification in electron ionization mass spectrometry (EI-MS).
 
 ## 2. Data
 
@@ -29,7 +25,7 @@ The actual spectral data for this library is publicly available from the authors
 
 The LLM4MS model provided in this repository is based on **Llama 3.1-8B**.
 * **Permissions:** Access to the original Llama 3.1-8B model weights requires adherence to Meta's license agreement. Users typically need to request access via resources like Hugging Face.
-* **Fine-tuning:** The LLM4MS model results from a specific fine-tuning procedure applied to the base Llama model, as detailed in our paper (Section 4: Methods). This involves steps adapting methodologies like MNTP and SimCSE, followed by Tanimoto similarity-guided fine-tuning on textualized spectral data. *Note: Ensure your fine-tuning process doesn't violate the base model's license terms if distributing the fine-tuned model.*
+* **Fine-tuning:** The LLM4MS model results from a specific fine-tuning procedure applied to the base Llama model, as detailed in **LLM2Vec** paper.
 
 ### LLM2Vec Preliminary Training
 
